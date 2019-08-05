@@ -24,6 +24,7 @@ class App extends React.Component  {
 	unsubscribeFromAuth = null;
 
 	componentDidMount(){
+		// console.log('didmount');
 		this.unsubscribeFromAuth = auth.onAuthStateChanged(async userAuth => {
 			if(userAuth){
 				const userRef = await createUserProfileDocument(userAuth);
@@ -34,15 +35,16 @@ class App extends React.Component  {
 							id: snapShot.id,
 							...snapShot.data()
 						}
-					}, () => {
-						// setState is asyncronous, so run this after it complete
-						console.log(this.state);		
-					})
+					});
+
+					// console.log(this.state);
+
 				});
 				
-			} else {
-				this.setState({ currenctUser: userAuth});
 			}
+			
+			this.setState({ currenctUser: userAuth});
+			
 			
 		})
 	}
@@ -52,7 +54,8 @@ class App extends React.Component  {
 	}
 
 	render() {
-		console.log(this.state.currenctUser);
+		
+		// console.log('nilai current user ', this.state.currenctUser);
 		return (
 		    <div>
 		    	<Header currentUser={this.state.currenctUser} />
