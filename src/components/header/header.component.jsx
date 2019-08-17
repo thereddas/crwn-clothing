@@ -9,7 +9,7 @@ import { ReactComponent as Logo } from '../../assets/crown.svg';
 
 import './header.styles.scss';
 
-const Header = ({ currentUser }) => (
+const Header = ({ currentUser, parTest }) => (
 	<div className='header'>
 		<Link to='/' className='logo-container'>
 			<Logo className='logo' />
