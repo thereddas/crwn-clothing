@@ -19,12 +19,14 @@ const mapDispatchToProps = dispatch => ({
 	toggleCartHidden: () => dispatch(toggleCartHidden())
 });
 
+// const mapStateToProps = ({ cart: {cartItems}}) => {
 const mapStateToProps = (state) => {
-	console.log('I am being called event no changes');
-	return{
+	console.log('cart-item being called event no changes');
+	return {
 	// itemCount: cartItems.reduce((accumulatedQuantity, cartItem) => 
-	// 	accumulatedQuantity + cartItem.quantity,0);
-	itemCount: selectCartItemCount(state)
-}}
+		// accumulatedQuantity + cartItem.quantity,0)
+		itemCount: selectCartItemCount(state)
+	}
+}
 
 export default connect(mapStateToProps, mapDispatchToProps)(CartIcon);

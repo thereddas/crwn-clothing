@@ -31,9 +31,12 @@ const Header = ({ currentUser, hidden }) => (
 	</div>
 );
 
-const mapStateToProps = ({user: {currentUser}, cart: {hidden} }) => ({
-	currentUser: currentUser,
-	hidden
-});
+const mapStateToProps = ({user: {currentUser}, cart: {hidden} }) => {
+	console.log ('header is called');
+	return {
+		currentUser: currentUser,
+		hidden
+	}
+};
 
 export default connect(mapStateToProps)(Header);
