@@ -1,5 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import { createStructuredSelector } from 'reselect';
 
 import { toggleCartHidden } from '../../redux/cart/cart.actions';
 import { selectCartItemCount } from '../../redux/cart/cart.selectors';
@@ -20,13 +21,10 @@ const mapDispatchToProps = dispatch => ({
 });
 
 // const mapStateToProps = ({ cart: {cartItems}}) => {
-const mapStateToProps = (state) => {
-	console.log('cart-item being called event no changes');
-	return {
+const mapStateToProps = createStructuredSelector({
 	// itemCount: cartItems.reduce((accumulatedQuantity, cartItem) => 
 		// accumulatedQuantity + cartItem.quantity,0)
-		itemCount: selectCartItemCount(state)
-	}
-}
+	itemCount: selectCartItemCount
+});
 
 export default connect(mapStateToProps, mapDispatchToProps)(CartIcon);

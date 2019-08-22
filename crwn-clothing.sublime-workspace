@@ -4,427 +4,160 @@
 		"selected_items":
 		[
 			[
-				"con",
-				"confirmPassword"
+				"see",
+				"selectCurrentUser"
 			],
 			[
-				"class",
-				"className"
+				"selec",
+				"selectCartItems"
 			],
 			[
-				"sig",
-				"signInWithGoogle"
+				"cart",
+				"cartItems"
 			],
 			[
-				"handle",
-				"handleChange"
+				"Cart",
+				"CartDropdown"
 			],
 			[
-				"ccode",
-				"ccode_category"
+				"current",
+				"currenctUser"
 			],
 			[
-				"ndep",
-				"ndep_expense"
+				"set",
+				"setCurrenctUser"
+			],
+			[
+				"root",
+				"rootReducer"
 			],
 			[
 				"ntotal",
-				"ntotal_acquisition_idr"
+				"ntotal_payment"
 			],
 			[
-				"cid",
-				"cid_invoice"
+				"user",
+				"userAuth"
 			],
 			[
-				"nde",
-				"ndebit_usd"
+				"searc",
+				"searchField"
 			],
 			[
-				"nd",
-				"ndebit_usd"
+				"nI",
+				"nInDosen"
 			],
 			[
-				"nid_perio",
-				"nid_period_to"
+				"lett",
+				"letterGen"
 			],
 			[
-				"nid",
-				"nid_period"
+				"multit",
+				"multiToTen"
 			],
 			[
-				"norig",
-				"norig_amount"
+				"mul",
+				"multiToTen"
 			],
 			[
-				"nbala",
-				"nbalance_usd"
+				"add",
+				"addToTen"
 			],
 			[
-				"nid_",
-				"nid_currency"
+				"key",
+				"key_3"
 			],
 			[
-				"paddi",
-				"padding-right\tproperty"
+				"chars",
+				"chars_set"
 			],
 			[
-				"padding",
-				"padding-left\tproperty"
+				"char",
+				"chars_arr"
 			],
 			[
-				"dcon",
-				"dcontract_end"
+				"num",
+				"numSet"
 			],
 			[
-				"npe",
-				"npenerimaan_ytd_idr"
+				"post",
+				"postgres"
 			],
 			[
-				"nto",
-				"ntotal_penerimaan_current_idr"
+				"body",
+				"bodyParser"
 			],
 			[
-				"norig_amo",
-				"norig_amount_usd"
+				"ima",
+				"imageUrl"
 			],
 			[
-				"period",
-				"period_compare"
+				"on",
+				"onRouteChange"
 			],
 			[
-				"perio",
-				"period_compare"
+				"clari",
+				"clarifaiFace"
 			],
 			[
-				"a",
-				"adate"
+				"clar",
+				"clarifaiFace"
 			],
 			[
-				"cperiod",
-				"cperiodto"
+				"clas",
+				"className"
 			],
 			[
-				"amo",
-				"amonth"
+				"margin",
+				"margin-left\tproperty"
 			],
 			[
-				"employee",
-				"employee_name"
-			],
-			[
-				"emplo",
-				"employee_id"
-			],
-			[
-				"employ",
-				"employee_id"
-			],
-			[
-				"te",
-				"temporary_table2"
-			],
-			[
-				"tem",
-				"temporary_table"
-			],
-			[
-				"font-",
-				"font-weight\tproperty"
-			],
-			[
-				"bs_ex",
-				"bs_explain_group"
-			],
-			[
-				"npiut",
-				"npiutang_jaminan_now"
-			],
-			[
-				"ntak",
-				"ntaksiran_tagihan_pajak_now"
-			],
-			[
-				"str_re",
-				"str_replace"
-			],
-			[
-				"ntotal_mu",
-				"ntotal_muka_now"
-			],
-			[
-				"ntotal_um_p",
-				"ntotal_um_pegawai_now"
-			],
-			[
-				"nmu",
-				"nmuka_lain_now"
-			],
-			[
-				"nsewa",
-				"nsewa_now"
-			],
-			[
-				"ntotal_",
-				"ntotal_plain_now"
-			],
-			[
-				"ntotal_suku",
-				"ntotal_suku_cadang_now"
-			],
-			[
-				"npla",
-				"nplain_now"
-			],
-			[
-				"nkk",
-				"nkkerja_now"
-			],
-			[
-				"njb",
-				"njbag_now"
-			],
-			[
-				"nturun_k",
-				"nturun_kapur_now"
-			],
-			[
-				"nkapu",
-				"nkapur_now"
-			],
-			[
-				"nbara",
-				"nbara_now"
-			],
-			[
-				"nturun_fl",
-				"nturun_fly_now"
-			],
-			[
-				"nturun_rc",
-				"nturun_rc_now"
-			],
-			[
-				"nturun_sg",
-				"nturun_sgr_now"
-			],
-			[
-				"nturun_irk",
-				"nturun_irk2_now"
-			],
-			[
-				"nturun_ir",
-				"nturun_irk1_now"
-			],
-			[
-				"nfly",
-				"nfly_ash_now"
-			],
-			[
-				"nretur",
-				"nreturn_char_now"
-			],
-			[
-				"nun",
-				"nunspect_now"
-			],
-			[
-				"nirk",
-				"nirk_now"
-			],
-			[
-				"bs",
-				"bs_explain_sheet"
-			],
-			[
-				"nbank_rup",
-				"nbank_rupiah_last"
-			],
-			[
-				"nban",
-				"nbank_usd_last"
-			],
-			[
-				"nbank",
-				"nbank_rupiah_last"
-			],
-			[
-				"nma",
-				"nmandiri_last"
-			],
-			[
-				"nend",
-				"nend_label"
-			],
-			[
-				"Emp",
-				"Emp_Id"
-			],
-			[
-				"nen",
-				"nend_label"
-			],
-			[
-				"ni",
-				"nid_currency"
-			],
-			[
-				"max",
-				"maxlength\tAttr"
+				"cla",
+				"className"
 			],
 			[
 				"font",
-				"font-style"
+				"font-size\tproperty"
 			],
 			[
-				"wid",
-				"width"
+				"sear",
+				"searchfield"
 			],
 			[
-				"st",
-				"style\tAttr"
+				"filter",
+				"filterArray"
 			],
 			[
-				"nacc",
-				"naccrual_after"
+				"create",
+				"createListElement"
 			],
 			[
-				"mysql_f",
-				"mysql_fetch_row"
+				"ma",
+				"maxlength\tAttr"
 			],
 			[
-				"mysql_num",
-				"mysql_num_rows"
-			],
-			[
-				"csub",
-				"csub_location"
-			],
-			[
-				"b_gl_ac",
-				"b_gl_accrual_bunga_mutasi"
-			],
-			[
-				"nmuta",
-				"nmutasi"
-			],
-			[
-				"bsho",
-				"bshow_form"
-			],
-			[
-				"b_gl_accrual_bunga",
-				"b_gl_accrual_bunga_mutasi"
-			],
-			[
-				"nday",
-				"ndays_year"
-			],
-			[
-				"b_gl",
-				"b_gl_accrual"
-			],
-			[
-				"bshow",
-				"bshow_interest"
-			],
-			[
-				"nmutas",
-				"nmutasi_interest"
-			],
-			[
-				"ninter",
-				"ninterest_balance"
-			],
-			[
-				"b_gl_accru",
-				"b_gl_accrual_bunga"
-			],
-			[
-				"namo",
-				"namount_usd"
-			],
-			[
-				"nam",
-				"namount_usd"
-			],
-			[
-				"namou",
-				"namount_journal"
-			],
-			[
-				"amount",
-				"amount_journal"
-			],
-			[
-				"b_gl_acc",
-				"b_gl_accrual_journal"
-			],
-			[
-				"namount",
-				"namount_usd"
-			],
-			[
-				"mysql_in",
-				"mysql_insert_id"
-			],
-			[
-				"mysql_fe",
-				"mysql_fetch_object"
-			],
-			[
-				"cid_pet",
-				"cid_pettycash_kasbon"
-			],
-			[
-				"ccode_deta",
-				"ccode_detail_lokasi"
-			],
-			[
-				"npph",
-				"npph21_penugasan"
-			],
-			[
-				"cco",
-				"ccondition"
-			],
-			[
-				"ccoe",
-				"ccode_category"
-			],
-			[
-				"ccod",
-				"ccondition"
-			],
-			[
-				"s",
-				"style\tAttr"
-			],
-			[
-				"cc",
-				"ccondition"
-			],
-			[
-				"ccode_",
-				"ccode_vendor"
+				"clo",
+				"clogo_client"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "src/components/cart-icon/cart-icon.component.jsx",
+			"file": "src/pages/checkout/checkout.component.js",
 			"settings":
 			{
-				"buffer_size": 1032,
+				"buffer_size": 154,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/redux/cart/cart.selectors.js",
+			"file": "src/App.js",
 			"settings":
 			{
-				"buffer_size": 362,
+				"buffer_size": 2024,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -432,15 +165,7 @@
 			"file": "src/components/cart-dropdown/cart-dropdown.component.jsx",
 			"settings":
 			{
-				"buffer_size": 786,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/components/header/header.component.jsx",
-			"settings":
-			{
-				"buffer_size": 1140,
+				"buffer_size": 1070,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -453,16 +178,20 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"insta",
 				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
 			]
 		],
-		"width": 476.0
+		"width": 0.0
 	},
 	"console":
 	{
@@ -482,151 +211,154 @@
 	},
 	"expanded_folders":
 	[
-		"/E/JSFramework/crwn-clothing",
-		"/E/JSFramework/crwn-clothing/src",
-		"/E/JSFramework/crwn-clothing/src/assets",
-		"/E/JSFramework/crwn-clothing/src/components",
-		"/E/JSFramework/crwn-clothing/src/components/cart-dropdown",
-		"/E/JSFramework/crwn-clothing/src/components/cart-icon",
-		"/E/JSFramework/crwn-clothing/src/components/cart-item",
-		"/E/JSFramework/crwn-clothing/src/components/header",
-		"/E/JSFramework/crwn-clothing/src/redux",
-		"/E/JSFramework/crwn-clothing/src/redux/cart"
+		"/F/JSFramework/crwn-clothing",
+		"/F/JSFramework/crwn-clothing/src",
+		"/F/JSFramework/crwn-clothing/src/components",
+		"/F/JSFramework/crwn-clothing/src/components/cart-dropdown",
+		"/F/JSFramework/crwn-clothing/src/components/cart-icon",
+		"/F/JSFramework/crwn-clothing/src/components/cart-item",
+		"/F/JSFramework/crwn-clothing/src/components/collection-item",
+		"/F/JSFramework/crwn-clothing/src/components/collection-preview",
+		"/F/JSFramework/crwn-clothing/src/pages",
+		"/F/JSFramework/crwn-clothing/src/pages/checkout",
+		"/F/JSFramework/crwn-clothing/src/redux",
+		"/F/JSFramework/crwn-clothing/src/redux/cart",
+		"/F/JSFramework/crwn-clothing/src/redux/user"
 	],
 	"file_history":
 	[
-		"/E/JSFramework/crwn-clothing/src/App.js",
-		"/E/JSFramework/crwn-clothing/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss",
-		"/E/JSFramework/crwn-clothing/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx",
-		"/E/JSFramework/crwn-clothing/src/components/sign-up/sign-up.component.jsx",
-		"/E/JSFramework/crwn-clothing/src/components/sign-in/sign-in.component.jsx",
-		"/E/JSFramework/crwn-clothing/src/firebase/firebase.utils.js",
-		"/E/JSFramework/crwn-clothing/src/components/header/header.component.jsx",
-		"/E/JSFramework/crwn-clothing/src/components/sign-up/sign-up.styles.scss",
-		"/E/JSFramework/crwn-clothing/src/components/custom-button/custom-button.component.jsx",
-		"/E/JSFramework/crwn-clothing/src/components/custom-button/custom-button.styles.scss",
-		"/E/JSFramework/crwn-clothing/src/components/sign-in/sign-in.styles.scss",
-		"/E/JSFramework/crwn-clothing/src/App.css",
-		"/E/JSFramework/crwn-clothing/src/components/header/header.styles.scss",
-		"/E/JSFramework/crwn-clothing/src/components/form-input/form-input.component.jsx",
-		"/E/JSFramework/crwn-clothing/src/components/collection-preview/collection-preview.component.jsx",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportbs/glreportbs.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual/glaccrual_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/spdaccrued/spdaccrued_list.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glimport/glimport.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltemplatebs/gltemplatebs_range.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual_generate/glaccrual_generate.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual_bunga_generate/glaccrual_bunga_generate.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportbs/glreportbs_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportbs/glreportbs_pdf.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltemplateincome/gltemplateincome_range.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltemplateincome/gltemplateincome_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltemplatebs/gltemplatebs_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltemplatebs/gltemplatebs.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltemplateincome/gltemplateincome.php",
-		"/C/xampp/htdocs/fico/admin/extensions/amortisasi/amortisasi.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_invoice_manual.php",
-		"/C/xampp/htdocs/fico/admin/extensions/amortisasidepre/amortisasidepre.php",
-		"/C/xampp/htdocs/fico/admin/extensions/amortisasidepre/amortisasidepre.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_payroll_entry.php",
-		"/C/xampp/htdocs/fico/CATATAN FICO/Closing Mei 2019",
-		"/C/xampp/htdocs/fico/admin/extensions/glreport_explain/glreport_explain_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual_posting/glaccrual_posting.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual_generate/glaccrual_generate.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/fadepreciation/fadepreciation_create.php",
-		"/C/xampp/htdocs/fico/admin/extensions/spdaccrued/tktaccrued_list.php",
-		"/C/xampp/htdocs/fico/admin/extensions/spdaccrued/spdaccrued.php",
-		"/C/xampp/htdocs/fico/admin/extensions/spdaccrued/tktaccrued_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_spd_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/spdaccrued/spdaccrued_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arinvoiceproduct/arinvoiceproduct_detail.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_hrd_list.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glcloseyear/glcloseyear.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreval/glreval.php",
-		"/C/xampp/htdocs/fico/CATATAN FICO/Closing Jan 2019.txt",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_invoice_manual_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreport_explain/glreport_explain.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportbsexplain/glreportbsexplain_out.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportbsexplain/glreportbsexplain_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual/glaccrual_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_hrd.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_hrd_execution.php",
-		"/C/xampp/htdocs/fico/admin/extensions/fareportfinished/fareportfinished.php",
-		"/C/xampp/htdocs/fico/CATATAN FICO/Closing Nov 2018.txt",
-		"/C/xampp/htdocs/fico/CATATAN FICO/Query",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_tax.php",
-		"/C/Users/Derry/OneDrive/MJIS/Closing/Januari 2019/Query Hutang Pajak",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_tax_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_taxinv_list.php",
-		"/C/xampp/htdocs/fico/admin/extensions/fareportfinished/fareportfinished.init.php",
-		"/C/xampp/htdocs/fico/admin/extensions/fareportfinished/fareportfinished_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gloriginalcurr/gloriginalcurr_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/fa/fa_new.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arproduct_ba/arproduct_ba_upload.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arinvoiceproduct/arinvoiceproduct.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arinvoiceproduct/arinvoiceproduct_main.php",
-		"/C/xampp/htdocs/fico/CATATAN FICO/Closing Des 18",
-		"/C/Users/Derry/Google Drive/Like what you doing.txt",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportgl2/glreportgl2_view.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_accrual_search.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltrialbalance/gltrialbalance_auditor_f2_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportgl2/glreportgl2_excel_auditor_f2.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportgl2/glreportgl2.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportgl2/glreportgl2_out.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportgl2/glreportgl2_excel_auditor.php",
-		"/C/xampp/htdocs/fico/admin/extensions/apstd/apstd_pdf.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arinvoiceproduct/arinvoiceproduct_pdf.php",
-		"/C/xampp/htdocs/fico/lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_advances_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_ap.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_advances.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreport_explain/glreport_explain.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreport_explain/glreport_explain_out.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportbs/glreportbs_out.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmcashreceive/cmcashreceive_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltrialbalance/gltrialbalance.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltrialbalance/gltrialbalance_output.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltrialbalance/gltrialbalance.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_transfer_hr.php",
-		"/C/xampp/htdocs/fico/admin/extensions/faupdateimport/faupdateimport_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmcashpayment/cmcashpayment_entry.php",
-		"/C/xampp/htdocs/fico/BackupModul/1218/faupdateimport/faupdateimport_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/advancesrequest/advancessettlement_printpdf.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glunposted/glunposted.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_payroll_list.php",
-		"/C/xampp/htdocs/fico/CATATAN FICO/query_cashflow.txt",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportcashflow/glreportcashflow_view.php",
-		"/C/xampp/htdocs/fico/admin/extensions/legalcontract/legalcontract_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/legalcontract/legalcontract_upload.php",
-		"/C/xampp/htdocs/fico/admin/extensions/legalcontract/legalcontract.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arpoproduct/arpoproduct.lib.php",
-		"/C/xampp/htdocs/fico/admin/extensions/arpoproduct/arpoproduct_detail.php",
-		"/C/xampp/htdocs/fico/admin/extensions/legalcontract/legalcontract_main.php",
-		"/C/xampp/htdocs/fico/admin/extensions/legalcontract/legalcontract.php",
-		"/C/xampp/htdocs/fico/admin/extensions/legalcontract/legalcontract.init.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportcashflow/glreportcashflow_out.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportcashflow/glreportcashflow.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmcashreceive/cmcashreceive_advance_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glreportcashflow/glreportcashflow_screen.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glexpensetrendetail/glexpensetrendetail_exp_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glaccrual/glaccrual.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gltrialbalance/gltrialbalance_tren_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glexpensetrendetail/glexpensetrendetail_output.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glexpensetrendetail/glexpensetrendetail.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glexpensetrendetail/glexpensetrendetail_bal_excel.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gllist/gllist.php",
-		"/C/xampp/htdocs/fico/CATATAN FICO/Closeing Oktober 2018",
-		"/C/Users/Derry/OneDrive/MJIS/Orignal Balance/EndingBalance_0",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_hr_entry.php",
-		"/C/xampp/htdocs/fico/admin/extensions/glendingbalance/glendingbalance.php",
-		"/C/xampp/htdocs/fico/admin/extensions/cmpaymentprocess/cmpaymentprocess_transfer_pdf.php",
-		"/C/xampp/htdocs/fico/admin/extensions/aplist/aplist_spd_list.php",
-		"/C/xampp/htdocs/fico/admin/extensions/gloriginalcurr/gloriginalcurr.php"
+		"/F/JSFramework/crwn-clothing/src/components/cart-dropdown/cart-dropdown.styles.scss",
+		"/F/JSFramework/crwn-clothing/src/components/header/header.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/redux/cart/cart.utils.js",
+		"/F/JSFramework/crwn-clothing/src/redux/root-reducer.js",
+		"/F/JSFramework/crwn-clothing/src/redux/cart/cart.selectors.js",
+		"/F/JSFramework/crwn-clothing/src/redux/user/user.selectors.js",
+		"/F/JSFramework/crwn-clothing/src/App.js",
+		"/F/JSFramework/crwn-clothing/src/components/cart-icon/cart-icon.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/components/cart-dropdown/cart-dropdown.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/redux/cart/cart.types.js",
+		"/F/JSFramework/crwn-clothing/src/components/cart-item/cart-item.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/redux/cart/cart.reducer.js",
+		"/F/JSFramework/crwn-clothing/src/redux/cart/cart.actions.js",
+		"/F/JSFramework/crwn-clothing/src/components/custom-button/custom-button.styles.scss",
+		"/F/JSFramework/crwn-clothing/src/components/collection-item/collection-item.styles.scss",
+		"/F/JSFramework/crwn-clothing/src/redux/cart/cart.selector.js",
+		"/F/JSFramework/crwn-clothing/src/components/collection-item/collection-item.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/components/collection-preview/collection-preview.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/pages/shop/shop.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/components/custom-button/custom-button.component.jsx",
+		"/F/JSFramework/crwn-clothing/src/redux/store.js",
+		"/F/JSFramework/crwn-clothing/src/index.js",
+		"/F/JSFramework/crwn-clothing/src/redux/user/user.actions.js",
+		"/F/JSFramework/crwn-clothing/src/components/cart-icon/cart-icon.styles.scss",
+		"/F/JSFramework/crwn-clothing/src/redux/user/user.types.js",
+		"/F/JSFramework/crwn-clothing/src/redux/user/user.reducer.js",
+		"/F/JSFramework/crwn-clothing/node_modules/react-redux/es/components/Provider.js",
+		"/F/Training/FreeCodeCamp/Python with Dr Chuck/readme.txt",
+		"/C/xampp/htdocs/siak/application/controllers/Login.php",
+		"/C/xampp/htdocs/siak/NOTES/Update Juni 2019",
+		"/F/JSFramework/crwn-clothing/package.json",
+		"/F/JSFramework/crwn-clothing/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx",
+		"/F/JSFramework/crwn-clothing/package-lock.json",
+		"/F/JSFramework/crwn-clothing/.git/config",
+		"/F/JSFramework/materialui/public/index.html",
+		"/F/JSFramework/materialui/src/components/layout/index.js",
+		"/F/JSFramework/qprogress/src/components/Surat.js",
+		"/C/xampp/htdocs/siak/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/siak/application/views/admin/semester_v.php",
+		"/C/xampp/htdocs/siak/application/models/Pmb_m.php",
+		"/C/xampp/htdocs/siak/application/controllers/Admin.php",
+		"/C/xampp/htdocs/siak/application/controllers/Pmb.php",
+		"/C/xampp/htdocs/siak/application/config/constants.php",
+		"/C/xampp/htdocs/siak/application/views/pmb/online.php",
+		"/C/xampp/htdocs/siak/application/controllers/User.php",
+		"/C/xampp/htdocs/siak-stikom/application/views/pmb/list.php",
+		"/C/xampp/htdocs/siak-stikom/libs/css/dataTables.bootstrap.css",
+		"/C/xampp/htdocs/siak-stikom/libs/js/dataTables.bootstrap.min.js",
+		"/C/xampp/htdocs/siak-stikom/application/controllers/Login.php",
+		"/C/xampp/htdocs/siak-stikom/application/views/pmb/online.php",
+		"/C/xampp/htdocs/siak-stikom/application/views/pmb/register_dpps.php",
+		"/C/xampp/htdocs/siak-stikom/application/views/pmb/register.php",
+		"/C/xampp/htdocs/siak-stikom/application/views/pmb/NPMSet.php",
+		"/C/xampp/htdocs/siak-stikom/application/views/pmb/NPMList.php",
+		"/C/xampp/htdocs/siak-stikom/application/config/constants.php",
+		"/C/xampp/htdocs/siak-stikom/application/controllers/Pmb.php",
+		"/C/xampp/htdocs/siak-stikom/application/models/Pmb_m.php",
+		"/C/xampp/htdocs/siak-stikom/application/models/User_m.php",
+		"/C/xampp/htdocs/siak-stikom/application/controllers/User.php",
+		"/C/xampp/htdocs/assets/webservice/index.php",
+		"/C/xampp/htdocs/assets/assets/Notes/index.php",
+		"/C/xampp/htdocs/assets/config.core.php",
+		"/C/Users/derry/Videos/4/The Dark Knight Rises (2012)/The.Dark.Knight.Rises.2012.720p.BluRay.x264.YIFY.srt",
+		"/C/xampp/htdocs/stikom/dosen/nilai_mahasiswa.php",
+		"/C/xampp/htdocs/stikom/sys.php",
+		"/C/xampp/htdocs/stikom/dosen/nilai_edit.php",
+		"/C/xampp/htdocs/stikom/koneksi.php",
+		"/C/xampp/htdocs/stikom/classes/db_class.php",
+		"/C/xampp/htdocs/stikom/dosen/kehadiran_matkul.php",
+		"/C/xampp/htdocs/stikom/libs/Dbase.php",
+		"/C/xampp/htdocs/stikom/perwalian/nilai.php",
+		"/C/xampp/htdocs/stikom/webdata/web_update.php",
+		"/C/xampp/htdocs/stikom/webservice/elearningform.php",
+		"/C/xampp/htdocs/stikom/webservice/getElearningData.php",
+		"/F/JSFramework/es6/app/functionFactories.js",
+		"/F/JSFramework/es6/app/closures.js",
+		"/F/JSFramework/es6/app/Map.js",
+		"/F/JSFramework/es6/app/Set.js",
+		"/F/JSFramework/es6/app/firstbasic.js",
+		"/C/laragon/www/webdev/face-api/serverWithDataArray.js",
+		"/C/laragon/www/webdev/face-api/package.json",
+		"/C/laragon/www/webdev/node/servernode.js",
+		"/C/laragon/www/webdev/face/src/components/FaceRecognition/FaceRecognition.css",
+		"/C/xampp/htdocs/stikom/login.php",
+		"/C/xampp/htdocs/stikom/index.php",
+		"/C/xampp/htdocs/stikom/koneksi_web.php",
+		"/C/laragon/www/webdev/face/package.json",
+		"/C/laragon/www/webdev/face/src/components/Rank/Rank.js",
+		"/C/laragon/www/webdev/face/src/index.css",
+		"/C/laragon/www/webdev/face/src/App.css",
+		"/C/laragon/www/webdev/face/src/components/Navigation/Navigation.js",
+		"/C/laragon/www/webdev/face/src/components/Logo/Logo.css",
+		"/C/laragon/www/webdev/face/src/components/Logo/Logo.js",
+		"/C/laragon/www/webdev/face/src/components/ImageLinkForm/ImageLinkForm.css",
+		"/C/laragon/www/webdev/face/src/index.js",
+		"/C/laragon/www/webdev/facerecognition/src/components/Navigation/Navigation.js",
+		"/C/laragon/www/webdev/facerecognition/src/containers/App.js",
+		"/C/laragon/www/webdev/facerecognition/src/index.js",
+		"/C/laragon/www/webdev/facerecognition/src/containers/App.css",
+		"/C/laragon/www/webdev/robofriends/src/SearchBox.js",
+		"/C/laragon/www/webdev/robofriends/src/containers/App.css",
+		"/C/laragon/www/webdev/robofriends/src/index.css",
+		"/C/laragon/www/webdev/robofriends/src/Scroll.js",
+		"/C/laragon/www/webdev/robofriends/src/Card.js",
+		"/C/Users/derry/Downloads/sega-logo-font-cufonfonts-webfont/style.css",
+		"/C/laragon/www/webdev/robofriends/src/CardList.js",
+		"/C/laragon/www/webdev/robofriends/src/robots.js",
+		"/C/laragon/www/webdev/robofriends/src/App.js",
+		"/C/laragon/www/webdev/robofriends/src/App.css",
+		"/C/laragon/www/webdev/robofriends/src/Hello.js",
+		"/C/laragon/www/webdev/robofriends/package.json",
+		"/C/laragon/www/webdev/backgen/index.html",
+		"/C/laragon/www/webdev/backgen/package.json",
+		"/C/laragon/www/webdev/backgen/script.js",
+		"/C/laragon/www/webdev/backgen/style.css",
+		"/C/laragon/www/webdev/backgen/bundle.js",
+		"/C/laragon/www/webdev/dom/index.html",
+		"/C/laragon/www/webdev/dom/script.js",
+		"/C/laragon/www/simakan/notes/update db 290818.sql",
+		"/C/laragon/www/simakan/application/views/report/emp_idcard4.php",
+		"/C/laragon/www/simakan/application/views/report/emp_idcard3.php",
+		"/C/laragon/www/simakan/application/views/report/emp_idcard2.php",
+		"/C/laragon/www/simakan/application/config/database.php",
+		"/C/laragon/www/simakan/application/views/data/user_grant_detail_v.php",
+		"/C/Temp/simakan/updatedb.sql",
+		"/C/laragon/www/simakan/application/views/report/emp_out.php",
+		"/C/laragon/www/simakan/application/views/data/setting_v.php",
+		"/C/laragon/www/simakan/application/views/report/emp_idcard1.php"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -640,14 +372,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"-in",
-			"password",
-			"displayName",
-			"form-input",
-			"div",
-			"onChange",
-			"email",
-			".jsx"
+			"imageurl",
+			"cartItem",
+			"name",
+			"setCurrenctUser"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -665,24 +393,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/components/cart-icon/cart-icon.component.jsx",
+					"file": "src/pages/checkout/checkout.component.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1032,
+						"buffer_size": 154,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1032,
-								1032
+								154,
+								154
 							]
 						],
 						"settings":
@@ -706,36 +434,26 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -746,21 +464,31 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -779,36 +507,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -819,324 +537,35 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"git_gutter_is_enabled": true,
-							"git_savvy.repo_path": "E:\\JSFramework\\crwn-clothing",
+							"open_with_edit": true,
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/redux/cart/cart.selectors.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								248,
-								248
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										361,
-										362
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										227,
-										228
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"git_gutter_is_enabled": true,
-							"git_savvy.repo_path": "E:\\JSFramework\\crwn-clothing",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/components/cart-dropdown/cart-dropdown.component.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 786,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"git_gutter_is_enabled": true,
-							"git_savvy.repo_path": "E:\\JSFramework\\crwn-clothing",
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1146,20 +575,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "src/components/header/header.component.jsx",
+					"buffer": 1,
+					"file": "src/App.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1140,
+						"buffer_size": 2024,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1037,
-								1037
+								1580,
+								1580
 							]
 						],
 						"settings":
@@ -1183,36 +612,26 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1223,21 +642,31 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -1245,8 +674,8 @@
 								{
 									"1":
 									[
-										1088,
-										1089
+										1580,
+										1581
 									]
 								},
 								"icon":
@@ -1261,8 +690,8 @@
 								{
 									"1":
 									[
-										1001,
-										1002
+										1567,
+										1568
 									]
 								},
 								"unmatched":
@@ -1271,36 +700,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1311,32 +730,249 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/cart-dropdown/cart-dropdown.component.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										766,
+										767
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										765,
+										766
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										444,
+										445
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										423,
+										424
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"git_gutter_is_enabled": true,
-							"git_savvy.repo_path": "E:\\JSFramework\\crwn-clothing",
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 140.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1344,11 +980,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 36.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -1385,7 +1021,7 @@
 	"project": "crwn-clothing.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1395,112 +1031,96 @@
 		"selected_items":
 		[
 			[
+				"headercomp",
+				"src\\components\\header\\header.component.jsx"
+			],
+			[
+				"cart-ico",
+				"src\\components\\cart-icon\\cart-icon.component.jsx"
+			],
+			[
+				"cart-item",
+				"src\\components\\cart-item\\cart-item.component.jsx"
+			],
+			[
 				"header",
 				"src\\components\\header\\header.component.jsx"
 			],
 			[
-				"",
-				"untitled"
+				"cartred",
+				"src\\redux\\cart\\cart.reducer.js"
 			],
 			[
-				"closing no",
-				"fico\\CATATAN FICO\\Closing Nov 2018.txt"
+				"collectiite",
+				"src\\components\\collection-item\\collection-item.component.jsx"
 			],
 			[
-				"query",
-				"fico\\CATATAN FICO\\Query"
+				"custombu",
+				"src\\components\\custom-button\\custom-button.styles.scss"
 			],
 			[
-				"q",
-				"fico\\CATATAN FICO\\Query"
+				"rootred",
+				"src\\redux\\root-reducer.js"
 			],
 			[
-				"lib",
-				"fico\\lib.php"
+				"headcom",
+				"src\\components\\header\\header.component.jsx"
 			],
 			[
-				"glendi",
-				"fico\\admin\\extensions\\glendingbalance\\glendingbalance.php"
+				"my_co",
+				"application\\core\\MY_Controller.php"
 			],
 			[
-				"glending",
-				"fico\\admin\\extensions\\glendingbalance\\glendingbalance.php"
+				"style",
+				"libs\\css\\style.css"
 			],
 			[
-				"glreva",
-				"fico\\admin\\extensions\\glreval\\glreval.php"
+				"pmb",
+				"application\\models\\Pmb_m.php"
 			],
 			[
-				"glorigina",
-				"fico\\admin\\extensions\\gloriginalcurr\\gloriginalcurr_excel.php"
+				"user_m",
+				"application\\models\\User_m.php"
 			],
 			[
-				"glorrigina",
-				"fico\\admin\\extensions\\gloriginalcurr\\gloriginalcurr.php"
+				"sys",
+				"sys.php"
 			],
 			[
-				"index",
-				"fico\\index.php"
-			],
-			[
-				"quer",
-				"fico\\CATATAN FICO\\Query"
-			],
-			[
-				"glreportbs_view",
-				"admin\\extensions\\glreportbs\\glreportbs_view.php"
-			],
-			[
-				"glreportbs_ex",
-				"admin\\extensions\\glreportbs\\glreportbs_excel.php"
-			],
-			[
-				"abnorm",
-				"admin\\extensions\\glabnormal\\glabnormal.php"
-			],
-			[
-				"bridgingse",
-				"admin\\extensions\\cmbridgingset\\cmbridgingset.php"
-			],
-			[
-				"cmbrid",
-				"admin\\extensions\\cmbridgingset\\cmbridgingset.php"
-			],
-			[
-				"bridgingloa",
-				"CATATAN FICO\\Bridging Loan KS dan Antam.txt"
-			],
-			[
-				"gl_tran",
-				"admin\\extensions\\gl\\gl_transaction.php"
-			],
-			[
-				"lib.php",
-				"lib.php"
+				"kon",
+				"koneksi_web.php"
 			],
 			[
 				"inde",
 				"index.php"
 			],
 			[
-				"glsub",
-				"admin\\extensions\\glsubaccount\\glsubaccount.lib.php"
+				"login",
+				"login.php"
 			],
 			[
-				"currencyrate.lib",
-				"admin\\extensions\\currencyrate\\currencyrate.lib.php"
+				"koneksi",
+				"koneksi_web.php"
 			],
 			[
-				"currency.li",
-				"admin\\extensions\\currency\\currency.lib.php"
+				"meal_m",
+				"application\\models\\Meal_m.php"
 			],
 			[
-				"closing",
-				"CATATAN FICO\\Closing Des 17"
+				"data_m",
+				"application\\models\\Data_m.php"
 			],
 			[
-				"styl",
-				"PHPExcelClasses\\PHPExcel\\Style.php"
+				"database",
+				"application\\config\\database.php"
+			],
+			[
+				"tcpdf",
+				"application\\libraries\\tcpdf\\tcpdf.php"
+			],
+			[
+				"my",
+				"application\\core\\MY_Controller.php"
 			]
 		],
 		"width": 0.0
@@ -1513,7 +1133,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\fico\\fico.sublime-project"
+				"C:\\xampp\\htdocs\\stikom\\stikom.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1535,7 +1155,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 341.0,
+	"side_bar_width": 291.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
